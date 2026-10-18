@@ -1,0 +1,14 @@
+# Hosting-specific metadata is not part of the portable application.
+.openai/
+**/.openai/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Keep personal source images and selection backups outside the repository.
+photos/
+fotografije/
+backups/
+fotoknjiga-izbor-*.json
